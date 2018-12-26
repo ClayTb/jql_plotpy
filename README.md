@@ -1,5 +1,5 @@
 # plotpy
-a python version of plotjuggler
+a python version of [PlotJuggler](https://github.com/facontidavide/PlotJuggler) 
 1. using matplotlib and animation
 2. support ros topic, and unix domain socket communication plus
 
