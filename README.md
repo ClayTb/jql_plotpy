@@ -11,3 +11,7 @@ a python version of [PlotJuggler](https://github.com/facontidavide/PlotJuggler)
 5. cpu占有率低
 6. 不仅支持ros topic，也支持socket通信
 7. 支持缩放
+
+```
+如果有一起开发者，可私信
+```
