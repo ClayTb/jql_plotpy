@@ -3,7 +3,7 @@ a python version of [PlotJuggler](https://github.com/facontidavide/PlotJuggler)
 1. using matplotlib and animation
 2. support ros topic, and unix domain socket communication plus
 ```
-if you feel interest, please send message to me in gihub
+if you feel interest in this project, please send message to me in gihub
 ```
 
 ## 中文说明
